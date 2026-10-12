@@ -4,6 +4,7 @@
 #include <fstream>
 #include <iostream>
 #include <vector>
+#include "DnDMonsters.h"
 using namespace std;
 
 int main() {

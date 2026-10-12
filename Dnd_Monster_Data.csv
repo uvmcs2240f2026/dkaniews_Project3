@@ -1,0 +1,1024 @@
+﻿Name,CR,Type,Size,AC,HP,Movement,Alignment
+Aarakocra,0.25,Humanoid,Medium,12,13,fly,neutral good
+Aatxe,5,Celestial,Large,14,105,,lawful good
+Aberrant Spirit,,Aberration,Medium,11,40,fly,
+Abjurer Wizard,9,Humanoid,Medium,12,104,,any alignment
+Aboleth,10,Aberration,Large,17,135,swim,lawful evil
+Abominable Yeti,9,Monstrosity,Huge,15,137,,chaotic evil
+Acererak,23,Undead,Medium,21,285,,neutral evil
+Acolyte,0.25,Humanoid,Medium,10,9,,any alignment
+Adult Amethyst Dragon,16,Dragon,Huge,19,229,"fly, swim",neutral
+Adult Black Dragon,14,Dragon,Huge,19,195,"fly, swim",chaotic evil
+Adult Blue Dracolich,17,Undead,Huge,19,225,fly,lawful evil
+Adult Blue Dragon,16,Dragon,Huge,19,225,fly,lawful evil
+Adult Brass Dragon,13,Dragon,Huge,18,172,fly,chaotic good
+Adult Bronze Dragon,15,Dragon,Huge,19,212,"fly, swim",lawful good
+Adult Copper Dragon,14,Dragon,Huge,18,184,fly,chaotic good
+Adult Crystal Dragon,12,Dragon,Huge,16,172,fly,chaotic neutral
+Adult Deep Dragon,11,Dragon,Huge,17,147,"fly, swim",neutral evil
+Adult Emerald Dragon,14,Dragon,Huge,18,207,fly,lawful neutral
+Adult Gold Dragon,17,Dragon,Huge,19,256,"fly, swim",lawful good
+Adult Green Dragon,15,Dragon,Huge,19,207,"fly, swim",lawful evil
+Adult Kruthik,2,Monstrosity,Medium,18,39,,unaligned
+Adult Moonstone Dragon,15,Dragon,Huge,19,195,fly,neutral
+Adult Oblex,5,Ooze,Medium,14,75,,lawful evil
+Adult Red Dragon,17,Dragon,Huge,19,256,fly,chaotic evil
+Adult Sapphire Dragon,15,Dragon,Huge,18,225,fly,lawful neutral
+Adult Silver Dragon,16,Dragon,Huge,19,243,fly,lawful good
+Adult Topaz Dragon,13,Dragon,Huge,18,210,"fly, swim",chaotic neutral
+Adult White Dragon,13,Dragon,Huge,18,200,"fly, swim",chaotic evil
+Agnibarra,1,Monstrosity,Small,12,39,,chaotic neutral
+Air Elemental,5,Elemental,Large,15,90,fly,neutral
+Air Elemental Myrmidon,7,Elemental,Medium,18,117,fly,neutral
+Alhoon,10,Undead,Medium,15,150,fly,neutral evil
+Alkilith,11,Fiend,Medium,17,168,,chaotic evil
+Alkonost,0.5,Monstrosity,Small,12,17,fly,neutral
+Allip,5,Undead,Medium,13,40,fly,neutral evil
+Allosaurus,2,Beast,Large,13,51,,unaligned
+Alp,1,Fey,Small,13,44,,chaotic evil
+Alustriel Silverhand,21,Humanoid,Medium,15,272,,chaotic good
+Amethyst Dragon Wyrmling,4,Dragon,Medium,17,75,"fly, swim",neutral
+Amnizu,18,Fiend,Medium,21,202,fly,lawful evil
+Ancient Amethyst Dragon,23,Dragon,Gargantuan,20,444,"fly, swim",neutral
+Ancient Black Dragon,21,Dragon,Gargantuan,22,367,"fly, swim",chaotic evil
+Ancient Blue Dragon,23,Dragon,Gargantuan,22,481,fly,lawful evil
+Ancient Brass Dragon,20,Dragon,Gargantuan,20,297,fly,chaotic good
+Ancient Bronze Dragon,22,Dragon,Gargantuan,22,444,"fly, swim",lawful good
+Ancient Copper Dragon,21,Dragon,Gargantuan,21,350,fly,chaotic good
+Ancient Crystal Dragon,19,Dragon,Gargantuan,20,222,fly,chaotic neutral
+Ancient Deep Dragon,18,Dragon,Gargantuan,20,201,"fly, swim",neutral evil
+Ancient Dragon Turtle,24,Dragon,Gargantuan,22,409,swim,neutral
+Ancient Emerald Dragon,21,Dragon,Gargantuan,20,332,fly,lawful neutral
+Ancient Gold Dragon,24,Dragon,Gargantuan,22,546,"fly, swim",lawful good
+Ancient Green Dragon,22,Dragon,Gargantuan,21,385,"fly, swim",lawful evil
+Ancient Moonstone Dragon,21,Dragon,Gargantuan,20,330,fly,neutral
+Ancient Red Dragon,24,Dragon,Gargantuan,22,546,fly,chaotic evil
+Ancient Sapphire Dragon,22,Dragon,Gargantuan,20,370,fly,lawful neutral
+Ancient Sea Serpent,14,Dragon,Gargantuan,17,170,swim,neutral
+Ancient Shadow,1,Undead,Medium,13,32,,chaotic evil
+Ancient Silver Dragon,23,Dragon,Gargantuan,22,487,fly,lawful good
+Ancient Topaz Dragon,20,Dragon,Gargantuan,20,280,"fly, swim",chaotic neutral
+Ancient White Dragon,20,Dragon,Gargantuan,20,333,"fly, swim",chaotic evil
+Androsphinx,17,Monstrosity,Large,17,199,fly,lawful neutral
+Angry Sorrowsworn,13,Monstrosity,Medium,18,255,,neutral evil
+Animated Armor,1,Construct,Medium,18,33,,unaligned
+Animated Breath,6,Elemental,Large,15,95,fly,neutral evil
+Ankheg,2,Monstrosity,Large,14,39,,unaligned
+Ankylosaurus,3,Beast,Huge,15,68,,unaligned
+Annis Hag,6,Fey,Large,17,90,,chaotic evil
+Ape,0.5,Beast,Medium,12,19,,unaligned
+Apprentice Wizard,0.25,Humanoid,Medium,10,13,,any alignment
+Arcanaloth,12,Fiend,Medium,17,104,fly,neutral evil
+Archdruid,12,Humanoid,Medium,14,154,,any alignment
+Archer,3,Humanoid,Medium,16,75,,any alignment
+Archmage,12,Humanoid,Medium,12,99,,any alignment
+Armanite,7,Fiend,Large,16,94,,chaotic evil
+Asmodeus,30,Fiend,Large,22,725,fly,lawful evil
+Assassin,8,Humanoid,Medium,15,78,,any nongood alignment
+Assassin Vine,3,Plant,Large,13,85,,unaligned
+Astral Dreadnought,21,Monstrosity,Gargantuan,20,297,fly,unaligned
+Aurak Draconian,6,Monstrosity,Medium,17,67,,lawful evil
+Aurochs,2,Beast,Large,11,38,,unaligned
+Autumn Eladrin,10,Fey,Medium,19,165,,chaotic neutral
+Avatar of Death,,Undead,Medium,20,0,fly,neutral evil
+Awakened Shrub,0,Plant,Small,9,10,,unaligned
+Awakened Tree,2,Plant,Huge,13,59,,unaligned
+Axe Beak,0.25,Beast,Large,11,19,,unaligned
+Azer,2,Elemental,Medium,17,39,,lawful neutral
+Baalzebul,26,Fiend,Huge,19,540,fly,lawful evil
+Baaz Draconian,0.5,Monstrosity,Medium,14,22,,lawful evil
+Baba Yaga,20,Fey,Medium,18,399,fly,chaotic neutral
+Babau,4,Fiend,Medium,16,82,,chaotic evil
+Baboon,0,Beast,Small,12,3,,unaligned
+Badger,0,Beast,Tiny,10,3,,unaligned
+Bael,19,Fiend,Large,18,189,,lawful evil
+Bag Jelly,1,Ooze,Medium,8,42,,unaligned
+Balhannoth,11,Aberration,Large,17,114,,chaotic evil
+Balor,19,Fiend,Huge,19,262,fly,chaotic evil
+Banderhobb,5,Monstrosity,Large,15,84,,neutral evil
+Bandit,0.125,Humanoid,Medium,12,11,,any nonlawful alignment
+Bandit Captain,2,Humanoid,Medium,15,65,,any nonlawful alignment
+Banshee,4,Undead,Medium,12,58,fly,chaotic evil
+Baphomet,23,Fiend,Huge,22,319,,chaotic evil
+Barbed Devil,5,Fiend,Medium,15,110,,lawful evil
+Bard,2,Humanoid,Medium,15,44,,any alignment
+Barghest,4,Fiend,Large,17,60,,neutral evil
+Barlgura,5,Fiend,Large,15,68,,chaotic evil
+Barong,17,Celestial,Large,20,225,fly,lawful good
+Barrowghast,7,Undead,Huge,12,138,,chaotic evil
+Basilisk,3,Monstrosity,Medium,15,52,,unaligned
+Bat,0,Beast,Tiny,12,1,fly,unaligned
+Bearded Devil,3,Fiend,Medium,13,52,,lawful evil
+Bearmit Crab,2,Monstrosity,Large,14,59,swim,unaligned
+Beast of the Land,,Beast,Medium,13,5,,
+Beast of the Sea,,Beast,Medium,13,5,swim,
+Beast of the Sky,,Beast,Small,13,4,fly,
+Behir,11,Monstrosity,Huge,17,168,,neutral evil
+Beholder,13,Aberration,Large,18,180,fly,lawful evil
+Beholder Zombie,5,Undead,Large,15,93,fly,neutral evil
+Bel,25,Fiend,Large,19,364,fly,lawful evil
+Belaphoss,20,Fiend,Huge,19,262,fly,chaotic evil
+Belial,25,Fiend,Medium,21,420,fly,lawful evil
+Berbalang,2,Aberration,Medium,14,49,fly,neutral evil
+Berserker,2,Humanoid,Medium,13,67,,any chaotic alignment
+Bestial Spirit,,Beast,Small,11,20,"fly, swim",
+Bheur Hag,7,Fey,Medium,17,91,fly,chaotic evil
+Bilwis,1,Elemental,Medium,13,49,fly,chaotic evil
+Black Abishai,7,Fiend,Medium,15,58,fly,lawful evil
+Black Bear,0.5,Beast,Medium,11,19,,unaligned
+Black Dragon Wyrmling,2,Dragon,Medium,17,33,"fly, swim",chaotic evil
+Black Gauntlet of Bane,6,Humanoid,Medium,16,51,,lawful evil
+Black Pudding,4,Ooze,Large,7,85,,unaligned
+Blackguard,8,Humanoid,Medium,18,119,,neutral evil
+Blink Dog,0.25,Fey,Medium,13,22,,lawful good
+Blood Elemental,5,Elemental,Large,14,95,,neutral
+Blood Hawk,0.125,Beast,Small,12,7,fly,unaligned
+Blue Abishai,17,Fiend,Medium,19,202,fly,lawful evil
+Blue Dragon Wyrmling,3,Dragon,Medium,17,52,fly,lawful evil
+Blue Slaad,7,Aberration,Large,15,123,,chaotic neutral
+Boar,0.25,Beast,Medium,11,11,,unaligned
+Bodak,6,Undead,Medium,15,58,,chaotic evil
+Boggle,0.125,Fey,Small,14,18,,chaotic neutral
+Bone Devil,9,Fiend,Large,19,142,fly,lawful evil
+Bone Naga,4,Undead,Large,15,58,,lawful evil
+Boneclaw,12,Undead,Large,16,150,,chaotic evil
+Boot Grabber,0.5,Aberration,Small,11,22,,neutral
+Bozak Draconian,2,Monstrosity,Medium,15,40,,lawful evil
+Brain in a Jar,3,Undead,Small,11,55,fly,any alignment
+Brass Dragon Wyrmling,1,Dragon,Medium,16,16,fly,chaotic good
+Bronze Dragon Wyrmling,2,Dragon,Medium,17,32,"fly, swim",lawful good
+Brown Bear,1,Beast,Large,11,34,,unaligned
+Bugbear,1,Humanoid,Medium,16,27,,chaotic evil
+Bugbear Chief,3,Humanoid,Medium,17,65,,chaotic evil
+Bulette,5,Monstrosity,Large,17,94,,unaligned
+Bulezau,3,Fiend,Medium,14,52,,chaotic evil
+Bullywug,0.25,Humanoid,Medium,15,11,swim,neutral evil
+Bullywug Knight,3,Humanoid,Medium,18,66,swim,lawful good
+Cadaver Collector,14,Construct,Large,17,189,,lawful evil
+Cairnwight,9,Undead,Huge,19,138,,neutral
+Cambion,5,Fiend,Medium,19,82,fly,any evil alignment
+Camel,0.125,Beast,Large,9,15,,unaligned
+Canoloth,8,Fiend,Medium,16,120,,neutral evil
+Carbuncle,1,Monstrosity,Small,12,36,climb,chaotic good
+Carrion Crawler,2,Monstrosity,Large,13,51,,unaligned
+Cat,0,Beast,Tiny,12,2,,unaligned
+Catoblepas,5,Monstrosity,Large,14,84,,unaligned
+Cauldronborn,2,Construct,Small,13,13,,unaligned
+Cave Fisher,3,Monstrosity,Medium,16,58,,unaligned
+Celestial Spirit,,Celestial,Large,11,40,fly,
+Centaur,2,Monstrosity,Large,12,45,,neutral good
+Chain Devil,8,Fiend,Medium,16,85,,lawful evil
+Champion,9,Humanoid,Medium,18,143,,any alignment
+Chasme,6,Fiend,Large,15,84,fly,chaotic evil
+Chimera,6,Monstrosity,Large,14,114,fly,chaotic evil
+Chitine,0.5,Monstrosity,Small,14,18,,chaotic evil
+Choker,1,Aberration,Small,16,13,,chaotic evil
+Choldrith,3,Monstrosity,Medium,15,66,,chaotic evil
+Chromatic Greatwyrm,27,Dragon,Gargantuan,22,533,"fly, swim",chaotic evil
+Chupacabra,0.5,Monstrosity,Small,13,36,,unaligned
+Chuul,4,Aberration,Large,16,93,swim,chaotic evil
+Cinder Hulk,7,Elemental,Large,16,84,,chaotic evil
+Clay Golem,9,Construct,Large,14,133,,unaligned
+Cloaker,8,Aberration,Large,14,78,fly,chaotic neutral
+Clockwork Iron Cobra,4,Construct,Medium,13,91,,unaligned
+Cloud Giant,9,Giant,Huge,14,200,,neutral good
+Cloud Giant Destiny Gambler,19,Giant,Huge,15,337,fly,any alignment
+Cloud Giant of Evil Air,12,Giant,Huge,14,200,fly,neutral evil
+Cloud Giant Smiling One,11,Giant,Huge,15,250,fly,chaotic neutral
+Cockatrice,0.5,Monstrosity,Small,11,27,fly,unaligned
+Commoner,0,Humanoid,Medium,10,4,,any alignment
+Conjurer Wizard,6,Humanoid,Medium,12,58,,any alignment
+Constrictor Snake,0.25,Beast,Large,12,13,swim,unaligned
+Construct Spirit,,Construct,Medium,13,40,,
+Copper Dragon Wyrmling,1,Dragon,Medium,16,22,fly,chaotic good
+Corpse Flower,8,Plant,Large,12,127,,chaotic evil
+Couatl,4,Celestial,Medium,19,97,fly,lawful good
+Crab,0,Beast,Tiny,11,2,swim,unaligned
+Cradle of the Cloud Scion,26,Elemental,Gargantuan,19,624,fly,chaotic neutral
+Cradle of the Fire Scion,25,Elemental,Gargantuan,20,555,,lawful evil
+Cradle of the Frost Scion,24,Elemental,Gargantuan,20,499,swim,neutral evil
+Cradle of the Hill Scion,22,Elemental,Gargantuan,19,402,,chaotic evil
+Cradle of the Stone Scion,23,Elemental,Gargantuan,20,455,,neutral
+Cradle of the Storm Scion,27,Elemental,Gargantuan,19,682,"fly, swim",chaotic good
+Cranium Rat,0,Aberration,Tiny,12,2,,unaligned
+Crawling Claw,0,Undead,Tiny,12,2,,neutral evil
+Crocodile,0.5,Beast,Large,12,19,swim,unaligned
+Crokek'toeck,14,Fiend,Gargantuan,15,297,swim,chaotic evil
+Crystal Dragon Wyrmling,2,Dragon,Medium,14,32,fly,chaotic neutral
+Cueyatl,0.5,Humanoid,Small,11,21,"climb, swim",lawful evil
+Cult Fanatic,2,Humanoid,Medium,13,33,,any nongood alignment
+Cultist,0.125,Humanoid,Medium,12,9,,any nongood alignment
+Cyclops,6,Giant,Huge,14,138,,chaotic neutral
+Dancing Item,,Construct,Large,16,10,fly,
+Dao,11,Elemental,Large,18,187,fly,neutral evil
+Dark Father,4,Undead,Large,18,65,fly,lawful neutral
+Dark Servant,1,Humanoid,Medium,12,55,,neutral evil
+Darkling,0.5,Fey,Small,14,13,,chaotic neutral
+Darkling Elder,2,Fey,Medium,15,27,,chaotic neutral
+Darkmantle,0.5,Monstrosity,Small,11,22,fly,unaligned
+Death Dog,1,Monstrosity,Medium,12,39,,neutral evil
+Death Giant Reaper,12,Giant,Huge,18,172,,any alignment
+Death Giant Shrouded One,15,Giant,Huge,12,195,,any alignment
+Death Kiss,10,Aberration,Large,15,142,fly,neutral evil
+Death Knight,17,Undead,Medium,20,180,,chaotic evil
+Death Slaad,10,Aberration,Medium,18,170,,chaotic evil
+Death Tyrant,14,Undead,Large,19,187,fly,lawful evil
+Deathlock,4,Undead,Medium,12,36,,neutral evil
+Deathlock Mastermind,8,Undead,Medium,13,110,,neutral evil
+Deathlock Wight,3,Undead,Medium,12,37,,neutral evil
+Death's Head of Bhaal,5,Humanoid,Medium,15,76,,chaotic evil
+Deep Dragon Wyrmling,1,Dragon,Medium,15,27,"fly, swim",neutral evil
+Deep Gnome (Svirfneblin),0.5,Humanoid,Small,15,16,,neutral good
+Deep Rothé,0.25,Beast,Medium,10,13,,unaligned
+Deep Scion,3,Monstrosity,Medium,11,67,swim,chaotic evil
+Deer,0,Beast,Medium,13,4,,unaligned
+Demilich,18,Undead,Tiny,20,80,fly,neutral evil
+Demogorgon,26,Fiend,Huge,22,464,swim,chaotic evil
+Derro,0.25,Aberration,Small,13,13,,chaotic evil
+Derro Savant,3,Aberration,Small,13,36,,chaotic evil
+Deva,10,Celestial,Medium,17,136,fly,lawful good
+Devilroot,7,Plant,Medium,15,105,,neutral evil
+Devourer,13,Undead,Large,16,189,,chaotic evil
+Dhampir,1,Humanoid,Medium,15,32,,any alignment
+Dhergoloth,7,Fiend,Medium,15,119,,neutral evil
+Dire Troll,13,Giant,Huge,15,172,,chaotic evil
+Dire Wolf,1,Beast,Large,14,37,,unaligned
+Dispater,27,Fiend,Large,21,412,,lawful evil
+Displacer Beast,3,Monstrosity,Large,13,85,,lawful evil
+Diviner Wizard,8,Humanoid,Medium,12,90,,any alignment
+Djinni,11,Elemental,Large,17,161,fly,chaotic good
+Dolphin,0.125,Beast,Medium,12,11,swim,unaligned
+Dolphin Delighter,3,Fey,Medium,14,27,swim,chaotic good
+Doppelganger,3,Monstrosity,Medium,14,52,,neutral
+Dracohydra,11,Monstrosity,Huge,17,218,"fly, swim",chaotic evil
+Draconian Dreadnought,4,Monstrosity,Large,16,57,fly,any alignment
+Draconian Foot Soldier,0.5,Monstrosity,Medium,14,22,,any alignment
+Draconian Infiltrator,3,Monstrosity,Medium,15,39,,any alignment
+Draconian Mage,2,Monstrosity,Medium,15,40,,any alignment
+Draconian Mastermind,6,Monstrosity,Medium,17,67,,any alignment
+Draconic Shard,17,Undead,Huge,17,168,fly,neutral
+Draconic Spirit,,Dragon,Large,14,50,"fly, swim",neutral
+Dracotaur,6,Dragon,Large,17,110,burrow,chaotic neutral
+Draegloth,7,Fiend,Large,15,123,,chaotic evil
+Draft Horse,0.25,Beast,Large,10,19,,unaligned
+Dragon Blessed,5,Humanoid,Medium,14,75,,any alignment
+Dragon Chosen,3,Humanoid,Medium,17,45,,any alignment
+Dragon Speaker,2,Humanoid,Small,13,36,,any alignment
+Dragon Turtle,17,Dragon,Gargantuan,20,341,swim,neutral
+Dragon Turtle Wyrmling,4,Dragon,Large,18,90,swim,neutral
+Dragonblood Ooze,5,Ooze,Large,14,68,,unaligned
+Dragonbone Golem,11,Construct,Large,17,161,,unaligned
+Dragonborn of Bahamut,8,Humanoid,Medium,18,93,fly,lawful good
+Dragonborn of Sardior,6,Humanoid,Medium,20,75,fly,neutral
+Dragonborn of Tiamat,7,Humanoid,Medium,18,85,,chaotic evil
+Dragonflesh Abomination,6,Monstrosity,Huge,15,66,fly,neutral evil
+Dragonflesh Grafter,3,Monstrosity,Large,14,52,,neutral evil
+Dragonnel,2,Dragon,Large,13,58,fly,neutral
+Drake Companion,,Dragon,Small,14,5,,
+Dretch,0.25,Fiend,Small,11,18,,chaotic evil
+Drider,6,Monstrosity,Large,19,123,,chaotic evil
+Drow,0.25,Humanoid,Medium,15,13,,neutral evil
+Drow Arachnomancer,13,Humanoid,Medium,15,162,,chaotic evil
+Drow Elite Warrior,5,Humanoid,Medium,18,71,,neutral evil
+Drow Favored Consort,18,Humanoid,Medium,15,240,,any alignment
+Drow House Captain,9,Humanoid,Medium,16,162,,any alignment
+Drow Inquisitor,14,Humanoid,Medium,16,149,,neutral evil
+Drow Mage,7,Humanoid,Medium,12,45,,neutral evil
+Drow Matron Mother,20,Humanoid,Medium,17,247,,neutral evil
+Drow Priestess of Lolth,8,Humanoid,Medium,16,71,,neutral evil
+Drow Shadowblade,11,Humanoid,Medium,17,150,,any alignment
+Druid,2,Humanoid,Medium,11,27,,any alignment
+Dryad,1,Fey,Medium,11,22,,neutral
+Duergar,1,Humanoid,Medium,16,26,,lawful evil
+Duergar Despot,12,Humanoid,Medium,21,119,,any alignment
+Duergar Kavalrachni,2,Humanoid,Medium,16,26,,any alignment
+Duergar Mind Master,2,Humanoid,Medium,14,39,,any alignment
+Duergar Soulblade,1,Humanoid,Medium,14,27,,any alignment
+Duergar Stone Guard,2,Humanoid,Medium,18,39,,any alignment
+Duergar Warlord,6,Humanoid,Medium,20,75,,any alignment
+Duergar Xarrorn,2,Humanoid,Medium,18,26,,any alignment
+Duodrone,0.25,Construct,Medium,15,11,,lawful neutral
+Dust Hulk,5,Elemental,Large,16,68,fly,chaotic neutral
+Dust Mephit,0.5,Elemental,Small,12,17,fly,neutral evil
+Dybbuk,4,Fiend,Medium,14,37,,chaotic evil
+Eagle,0,Beast,Small,12,3,fly,unaligned
+Earth Elemental,5,Elemental,Large,17,126,,neutral
+Earth Elemental Myrmidon,7,Elemental,Medium,18,127,,neutral
+Echo of Demogorgon,6,Fiend,Large,14,85,,chaotic evil
+Efreeti,11,Elemental,Large,17,200,fly,lawful evil
+Eidolon,12,Undead,Medium,9,63,fly,any alignment
+Elder Brain,14,Aberration,Large,10,210,swim,lawful evil
+Elder Brain Dragon,22,Aberration,Gargantuan,17,350,fly,lawful evil
+Elder Oblex,10,Ooze,Huge,16,115,,lawful evil
+Elder Tempest,23,Elemental,Gargantuan,19,264,fly,neutral
+Elemental Spirit,,Elemental,Medium,11,50,"fly, swim",
+Elephant,4,Beast,Huge,12,76,,unaligned
+Elk,0.25,Beast,Large,10,13,,unaligned
+Emerald Dragon Wyrmling,2,Dragon,Medium,16,39,fly,lawful neutral
+Empyrean,23,Celestial,Huge,22,313,"fly, swim",chaotic good
+Enchanter Wizard,5,Humanoid,Medium,12,49,,any alignment
+Erinyes,12,Fiend,Medium,18,153,fly,lawful evil
+Ettercap,2,Monstrosity,Medium,13,44,,neutral evil
+Ettin,4,Giant,Large,12,85,,chaotic evil
+Ettin Ceremorph,8,Aberration,Large,15,104,,lawful evil
+Evoker Wizard,9,Humanoid,Medium,12,121,,any alignment
+Expert,,Humanoid,Medium,14,11,,
+Exploading Toad,0.25,Monstrosity,Tiny,12,2,swim,chaotic evil
+Eyedrake,8,Aberration,Large,16,119,fly,lawful evil
+Faerie Dragon,1,Dragon,Tiny,15,14,fly,chaotic good
+Female Steeder,1,Monstrosity,Large,14,30,,unaligned
+Fensir Devourer,8,Celestial,Huge,17,138,,chaotic neutral
+Fensir Skirmisher,6,Giant,Large,15,94,,any alignment
+Fey Lady,16,Fey,Medium,16,172,"fly, swim",lawful neutral
+Fey Lord,12,Fey,Medium,17,104,,chaotic neutral
+Fey Spirit,,Fey,Small,12,30,,
+Fiendish Spirit,,Fiend,Large,12,50,fly,
+Fierna,25,Fiend,Medium,20,367,fly,lawful evil
+Firbolg Primeval Warden,4,Humanoid,Medium,16,65,,any alignment
+Firbolg Wanderer,5,Humanoid,Medium,16,90,,any alignment
+Fire Elemental,5,Elemental,Large,13,102,,neutral
+Fire Elemental Myrmidon,7,Elemental,Medium,18,123,,neutral
+Fire Giant,9,Giant,Huge,18,162,,lawful evil
+Fire Giant Dreadnought,14,Giant,Huge,21,187,,lawful evil
+Fire Giant Forgecaller,18,Giant,Huge,18,312,fly,any alignment
+Fire Giant of Evil Fire,10,Giant,Huge,18,150,,lawful evil
+Fire Hellion,11,Fiend,Huge,18,175,,lawful evil
+Fire Snake,1,Elemental,Medium,14,22,,neutral evil
+Firegaunt,11,Undead,Huge,15,175,,lawful evil
+Firenewt Warlock of Imix,1,Elemental,Medium,10,33,,neutral evil
+Firenewt Warrior,0.5,Elemental,Medium,13,27,,neutral
+Fist of Bane,0.5,Humanoid,Medium,18,22,,lawful evil
+Flail Snail,3,Elemental,Large,16,52,,unaligned
+Flameskull,4,Undead,Tiny,13,40,fly,neutral evil
+Flesh Colossus,20,Construct,Gargantuan,14,280,,unaligned
+Flesh Golem,5,Construct,Medium,9,93,,neutral
+Flind,9,Fiend,Medium,16,127,,chaotic evil
+Flumph,0.125,Aberration,Small,12,7,fly,lawful good
+Flying Polyp,11,Aberration,Huge,17,171,fly,chaotic evil
+Flying Snake,0.125,Beast,Tiny,14,5,"fly, swim",unaligned
+Flying Sword,0.25,Construct,Small,17,17,fly,unaligned
+Fomorian,8,Giant,Huge,14,149,,chaotic evil
+Fomorian Deep Crawler,10,Giant,Huge,14,184,,any alignment
+Fomorian Noble,15,Giant,Huge,14,253,,chaotic evil
+Fomorian Warlock of the Dark,12,Giant,Huge,15,207,,any alignment
+Fox,0,Beast,Tiny,13,2,,unaligned
+Fragrite,6,Elemental,Medium,14,91,,chaotic neutral
+FrazUrb'luu,23,Fiend,Large,18,337,fly,chaotic evil
+Frog,0,Beast,Tiny,11,1,swim,unaligned
+Froghemoth,10,Monstrosity,Huge,14,161,swim,unaligned
+Frost Druid,5,Humanoid,Medium,13,67,fly,any alignment
+Frost Giant,8,Giant,Huge,15,138,,neutral evil
+Frost Giant Everlasting One,12,Giant,Huge,15,189,,chaotic evil
+Frost Giant Ice Shaper,17,Giant,Huge,16,310,,any alignment
+Frost Giant of Evil Water,11,Giant,Huge,16,172,swim,neutral evil
+Frost Salamander,9,Elemental,Huge,17,168,,unaligned
+Frostmourn,10,Undead,Huge,13,195,,neutral evil
+Fury of Kostchtchie,14,Fiend,Huge,16,216,,chaotic evil
+Galeb Duhr,6,Elemental,Medium,16,85,,neutral
+Gargantua,21,Aberration,Gargantuan,17,388,,chaotic neutral
+Gargoctopus,5,Monstrosity,Medium,13,104,"climb, swim",neutral
+Gargoyle,2,Elemental,Medium,15,52,fly,chaotic evil
+Gas Spore,0.5,Plant,Large,5,1,fly,unaligned
+Gauth,6,Aberration,Medium,15,52,fly,lawful evil
+Gazer,0.5,Aberration,Tiny,13,13,fly,neutral evil
+Gelatinous Cube,2,Ooze,Large,6,84,,unaligned
+Gem Greatwyrm,26,Dragon,Gargantuan,21,507,"fly, swim",neutral
+Gem Stalker,5,Monstrosity,Large,17,67,,neutral
+Geryon,22,Fiend,Huge,19,300,fly,lawful evil
+Ghast,2,Undead,Medium,13,36,,chaotic evil
+Ghost,4,Undead,Medium,11,45,fly,any alignment
+Ghost Boar,3,Monstrosity,Large,13,68,,unaligned
+Ghost Dragon,17,Undead,Huge,10,324,fly,any alignment
+Ghoul,1,Undead,Medium,12,22,,chaotic evil
+Giant Ape,7,Beast,Huge,12,157,,unaligned
+Giant Badger,0.25,Beast,Medium,10,13,,unaligned
+Giant Bat,0.25,Beast,Large,13,22,fly,unaligned
+Giant Boar,2,Beast,Large,12,42,,unaligned
+Giant Centipede,0.25,Beast,Small,13,4,,unaligned
+Giant Constrictor Snake,2,Beast,Huge,12,60,swim,unaligned
+Giant Crab,0.125,Beast,Medium,15,13,swim,unaligned
+Giant Crocodile,5,Beast,Huge,14,85,swim,unaligned
+Giant Eagle,1,Beast,Large,13,26,fly,neutral good
+Giant Elk,2,Beast,Huge,14,42,,unaligned
+Giant Fire Beetle,0,Beast,Small,13,4,,unaligned
+Giant Frog,0.25,Beast,Medium,11,18,swim,unaligned
+Giant Goat,0.5,Beast,Large,11,19,,unaligned
+Giant Goose,3,Fey,Large,13,60,fly,neutral
+Giant Hyena,1,Beast,Large,12,45,,unaligned
+Giant Lizard,0.25,Beast,Large,12,19,,unaligned
+Giant Lynx,0.5,Fey,Medium,14,22,,neutral
+Giant Octopus,1,Beast,Large,11,52,swim,unaligned
+Giant Owl,0.25,Beast,Large,12,19,fly,neutral
+Giant Ox,3,Fey,Huge,12,105,,unaligned
+Giant Poisonous Snake,0.25,Beast,Medium,14,11,swim,unaligned
+Giant Ram,1,Fey,Large,13,28,,unaligned
+Giant Rat,0.125,Beast,Small,12,7,,unaligned
+Giant Scorpion,3,Beast,Large,15,52,,unaligned
+Giant Sea Horse,0.5,Beast,Large,13,16,swim,unaligned
+Giant Shark,5,Beast,Huge,13,126,swim,unaligned
+Giant Spider,1,Beast,Large,14,26,,unaligned
+Giant Strider,1,Elemental,Large,14,22,,unaligned
+Giant Toad,1,Beast,Large,11,39,swim,unaligned
+Giant TwoHeaded Goat,0.5,Beast,Large,11,19,,unaligned
+Giant Vulture,1,Beast,Large,10,22,fly,neutral evil
+Giant Walrus,4,Beast,Huge,9,55,swim,unaligned
+Giant Wasp,0.5,Beast,Medium,12,13,fly,unaligned
+Giant Weasel,0.125,Beast,Medium,13,9,,unaligned
+Giant Wolf Spider,0.25,Beast,Medium,13,11,,unaligned
+Gibbering Mouther,2,Aberration,Medium,9,67,swim,neutral
+Giff,3,Humanoid,Medium,16,60,,any alignment
+Gigant,20,Monstrosity,Gargantuan,17,325,fly,unaligned
+Girallon,4,Monstrosity,Large,13,59,,unaligned
+Githyanki Gish,10,Humanoid,Medium,17,130,,any alignment
+Githyanki Kith'rak,12,Humanoid,Medium,18,180,,any alignment
+Githyanki Knight,8,Humanoid,Medium,18,91,,lawful evil
+Githyanki Supreme Commander,14,Humanoid,Medium,18,187,,any alignment
+Githyanki Warrior,3,Humanoid,Medium,17,49,,lawful evil
+Githzerai Anarch,16,Humanoid,Medium,20,144,fly,any alignment
+Githzerai Enlightened,10,Humanoid,Medium,18,112,,any alignment
+Githzerai Monk,2,Humanoid,Medium,14,38,,lawful neutral
+Githzerai Zerth,6,Humanoid,Medium,17,84,,lawful neutral
+Glabrezu,9,Fiend,Large,17,157,,chaotic evil
+Gladiator,5,Humanoid,Medium,16,112,,any alignment
+Glasya,25,Fiend,Medium,21,380,fly,lawful evil
+Gloom Flower,3,Plant,Tiny,12,44,,unaligned
+Gnoll,0.5,Humanoid,Medium,15,22,,chaotic evil
+Gnoll Fang of Yeenoghu,4,Fiend,Medium,14,65,,chaotic evil
+Gnoll Flesh Gnawer,1,Monstrosity,Medium,14,22,,chaotic evil
+Gnoll Hunter,0.5,Monstrosity,Medium,13,22,,chaotic evil
+Gnoll Pack Lord,2,Humanoid,Medium,15,49,,chaotic evil
+Gnoll Witherling,0.25,Undead,Medium,12,11,,chaotic evil
+Goat,0,Beast,Medium,10,4,,unaligned
+Goblin,0.25,Humanoid,Small,15,7,,neutral evil
+Goblin Boss,1,Humanoid,Small,17,21,,neutral evil
+Gold Dragon Wyrmling,3,Dragon,Medium,17,60,"fly, swim",lawful good
+Goliath GiantKin,3,Humanoid,Medium,18,67,,any alignment
+Gorgon,5,Monstrosity,Large,19,114,,unaligned
+Goristro,17,Fiend,Huge,19,310,,chaotic evil
+Gray Ooze,0.5,Ooze,Medium,8,22,,unaligned
+Gray Render,12,Monstrosity,Large,19,189,,chaotic neutral
+Gray Slaad,9,Aberration,Medium,18,127,,chaotic neutral
+Graz'zt,24,Fiend,Large,20,346,,chaotic evil
+Green Abishai,15,Fiend,Medium,18,195,fly,lawful evil
+Green Dragon Wyrmling,2,Dragon,Medium,17,38,"fly, swim",lawful evil
+Green Hag,3,Fey,Medium,17,82,,neutral evil
+Green Slaad,8,Aberration,Large,16,127,,chaotic neutral
+Grell,3,Aberration,Medium,12,55,fly,neutral evil
+Grick,2,Monstrosity,Medium,14,27,,neutral
+Grick alpha,7,Monstrosity,Large,18,75,,neutral
+Griffon,2,Monstrosity,Large,12,59,fly,unaligned
+Grimlock,0.25,Humanoid,Medium,11,11,,neutral evil
+Grinning Cat,1,Fey,Large,12,45,,chaotic neutral
+Grung,0.25,Humanoid,Small,12,11,,any alignment
+Grung Elite Warrior,2,Humanoid,Small,13,49,,any alignment
+Grung Wildling,1,Humanoid,Small,16,27,,any alignment
+Guard,0.125,Humanoid,Medium,16,11,,any alignment
+Guard Drake,2,Dragon,Medium,14,52,,unaligned
+Guardian Naga,10,Monstrosity,Large,18,127,,lawful good
+Gugalanna,21,Celestial,Huge,18,253,fly,chaotic good
+Gynosphinx,11,Monstrosity,Large,17,136,fly,lawful neutral
+Halaster Blackcloak,23,Humanoid,Medium,14,246,,chaotic evil
+HalfOgre,1,Giant,Large,12,30,,any chaotic alignment
+HalfRed Dragon Veteran,5,Humanoid,Medium,18,65,,any alignment
+Hare,0,Beast,Tiny,13,1,,unaligned
+Harpy,1,Monstrosity,Medium,11,38,fly,chaotic evil
+Hawk,0,Beast,Tiny,13,1,fly,unaligned
+Hell Hound,3,Fiend,Medium,15,45,,lawful evil
+Hellfire Engine,16,Construct,Huge,18,216,,lawful evil
+Hellwasp,5,Fiend,Large,19,52,fly,lawful evil
+Helmed Horror,4,Construct,Medium,20,60,fly,neutral
+Herald of Fire,12,Dragon,Large,16,136,fly,lawful evil
+Hereld of the Great Wyrm,15,Dragon,Large,18,171,,lawful neutral
+Hezrou,8,Fiend,Large,16,136,,chaotic evil
+Hill Giant,5,Giant,Huge,13,105,,chaotic evil
+Hill Giant Avalancher,12,Giant,Huge,15,220,,any alignment
+Hippogriff,1,Monstrosity,Large,11,19,fly,unaligned
+Hoard Mimic,8,Monstrosity,Huge,14,123,,neutral
+Hoard Scarab,0.125,Monstrosity,Tiny,14,7,fly,unaligned
+Hobgoblin,0.5,Humanoid,Medium,18,11,,lawful evil
+Hobgoblin Captain,3,Humanoid,Medium,17,39,,lawful evil
+Hobgoblin Devastator,4,Fey,Medium,13,45,,lawful neutral
+Hobgoblin Iron Shadow,2,Fey,Medium,15,32,,lawful neutral
+Hobgoblin Warlord,6,Humanoid,Medium,20,97,,lawful evil
+Hollow Dragon,18,Undead,Huge,19,241,fly,any alignment
+Homunculus,0,Construct,Tiny,13,5,fly,neutral
+Homunculus Servant,,Construct,Tiny,13,1,fly,
+Hook Horror,3,Monstrosity,Large,15,75,,neutral
+Horned Devil,11,Fiend,Large,18,178,fly,lawful evil
+Horned Serpent,12,Monstrosity,Large,18,210,swim,unaligned
+Howler,8,Fiend,Large,16,90,,chaotic evil
+Hungry Ghost Preta,3,Undead,Medium,13,75,,neutral evil
+Hungry Sorrowsworn,11,Monstrosity,Medium,17,225,,neutral evil
+Hunter Shark,2,Beast,Large,12,45,swim,unaligned
+Hutijin,21,Fiend,Large,19,200,fly,lawful evil
+Hydra,8,Monstrosity,Huge,15,172,swim,unaligned
+Hydroloth,9,Fiend,Medium,15,135,swim,neutral evil
+Hyena,0,Beast,Medium,11,5,,unaligned
+Ice Devil,14,Fiend,Large,18,180,,lawful evil
+Ice Mephit,0.5,Elemental,Small,11,21,fly,neutral evil
+Ichneumon,11,Monstrosity,Large,16,123,,unaligned
+Iggwilv the Witch Queen,20,Fey,Medium,19,255,,chaotic neutral
+Ijiraq,7,Fey,Medium,14,127,,chaotic neutral
+Illusionist Wizard,3,Humanoid,Medium,12,44,,any alignment
+Imix,19,Elemental,Huge,17,325,fly,neutral evil
+Imp,1,Fiend,Tiny,13,10,fly,lawful evil
+Incinis,10,Elemental,Large,17,171,,neutral evil
+Inkling,0.25,Construct,Tiny,12,10,,unaligned
+Intellect Devourer,2,Aberration,Tiny,12,21,,lawful evil
+Invisible Stalker,6,Elemental,Medium,14,104,fly,neutral
+Iron Consul,2,Humanoid,Medium,16,45,,lawful evil
+Iron Golem,16,Construct,Large,20,210,,unaligned
+Iron Sphere,5,Construct,Small,16,60,"burrow, climb",unaligned
+Jaanavar Jal,7,Monstrosity,Huge,15,172,swim,unaligned
+Jackal,0,Beast,Small,12,3,,unaligned
+Jackalwere,0.5,Humanoid,Medium,12,18,,chaotic evil
+Jarlaxle Baenre,15,Humanoid,Medium,24,123,,chaotic neutral
+Jiangshi,6,Undead,Medium,15,117,,chaotic evil
+Jinmenju,9,Plant,Huge,14,126,,chaotic neutral
+Juiblex,23,Fiend,Huge,18,350,,chaotic evil
+Kapak Draconian,3,Monstrosity,Medium,15,39,,lawful evil
+Kappa,2,Fey,Small,16,49,swim,chaotic neutral
+Karakura,5,Fiend,Medium,15,76,fly,neutral evil
+Kender Skirmisher,0.25,Humanoid,Small,14,14,,any alignment
+Kenku,0.25,Humanoid,Medium,13,13,,chaotic neutral
+Killer Whale,3,Beast,Huge,12,90,swim,unaligned
+King Kobold,6,Humanoid,Small,15,112,,lawful neutral
+Kirin,12,Celestial,Large,20,153,fly,lawful good
+Kitsune,2,Fey,Small,12,49,,chaotic neutral
+Knight,3,Humanoid,Medium,18,52,,any alignment
+Knucklehead Trout,0,Beast,Small,12,7,swim,unaligned
+Kobold,0.125,Humanoid,Small,12,5,,lawful evil
+Kobold Dragonshield,1,Dragon,Small,15,44,,any alignment
+Kobold Inventor,0.25,Humanoid,Small,12,13,,any alignment
+Kobold Scale Sorcerer,1,Humanoid,Small,15,27,,any alignment
+Korred,7,Fey,Small,17,93,,chaotic neutral
+Kraken,23,Monstrosity,Gargantuan,18,472,swim,chaotic evil
+Kraken Priest,5,Monstrosity,Medium,15,75,swim,chaotic evil
+Kruthik Hive Lord,5,Monstrosity,Large,20,102,,unaligned
+Kuotoa,0.25,Humanoid,Medium,13,18,swim,neutral evil
+Kuotoa Archpriest,6,Humanoid,Medium,13,97,swim,neutral evil
+Kuotoa Whip,1,Humanoid,Medium,11,65,swim,neutral evil
+Lady in White,2,Undead,Medium,12,49,fly,any alignment
+Laeral Silverhand,17,Humanoid,Medium,18,228,,chaotic good
+Lamassu,10,Celestial,Large,17,147,fly,lawful good
+Lamia,4,Monstrosity,Large,13,97,,chaotic evil
+Lemure,0,Fiend,Medium,7,13,,lawful evil
+Leucrotta,3,Monstrosity,Large,14,67,,chaotic evil
+Leviathan,20,Elemental,Gargantuan,17,328,swim,neutral
+Levistus,26,Fiend,Medium,23,336,,lawful evil
+Lich,21,Undead,Medium,17,135,,any evil alignment
+Lightning Hulk,9,Elemental,Large,15,102,fly,chaotic neutral
+Lion,1,Beast,Large,12,26,,unaligned
+Liondrake,7,Monstrosity,Large,16,119,fly,neutral
+Living Shade,0.25,Fey,Medium,12,18,,neutral
+Living Star,19,Celestial,Huge,19,207,fly,any alignment
+Lizard,0,Beast,Tiny,10,2,,unaligned
+Lizard King/Queen,4,Humanoid,Medium,15,78,swim,chaotic evil
+Lizardfolk,0.5,Humanoid,Medium,15,22,swim,neutral
+Lizardfolk Shaman,2,Humanoid,Medium,13,27,swim,neutral
+Lonely Sorrowsworn,9,Monstrosity,Medium,16,112,,neutral evil
+Lord Soth,19,Undead,Medium,18,228,,lawful evil
+Lord Storm Elemental,13,Elemental,Huge,17,161,"fly, swim",neutral
+Lost Sorrowsworn,7,Monstrosity,Medium,15,78,,neutral evil
+Mage,6,Humanoid,Medium,12,40,,any alignment
+Magma Mephit,0.5,Elemental,Small,11,22,fly,neutral evil
+Magmin,0.5,Elemental,Small,14,9,,chaotic neutral
+Male Steeder,0.25,Monstrosity,Medium,12,13,,unaligned
+Mammon,26,Fiend,Huge,18,464,,lawful evil
+Mammoth,6,Beast,Huge,13,126,,unaligned
+Mandrake,0.5,Plant,Tiny,8,22,,unaligned
+Mandriano,5,Plant,Large,13,60,,lawful evil
+Manes,0.125,Fiend,Small,9,9,,chaotic evil
+Manshoon,13,Humanoid,Medium,19,126,,lawful evil
+Manticore,3,Monstrosity,Large,14,68,fly,lawful evil
+Marid,11,Elemental,Large,17,229,"fly, swim",chaotic neutral
+Marilith,16,Fiend,Large,18,189,,chaotic evil
+Martial Arts Adept,3,Humanoid,Medium,16,60,,any alignment
+Marut,25,Construct,Large,22,432,fly,lawful neutral
+Master of Souls,4,Humanoid,Medium,12,45,,neutral evil
+Master Sage,5,Humanoid,Medium,10,54,,
+Master Thief,5,Humanoid,Medium,16,84,,any alignment
+Mastiff,0.125,Beast,Medium,12,5,,unaligned
+Maurezhi,7,Fiend,Medium,15,88,,chaotic evil
+Maw Demon,1,Fiend,Medium,13,33,,chaotic evil
+Maw of Yeenoghu,10,Fiend,Huge,15,161,,chaotic evil
+Meazel,1,Monstrosity,Medium,13,35,,neutral evil
+Medusa,6,Monstrosity,Medium,15,127,,lawful evil
+Meenlock,2,Fey,Small,15,31,,neutral evil
+Mephistopheles,27,Fiend,Large,21,460,fly,lawful evil
+Merfolk,0.125,Humanoid,Medium,11,11,swim,neutral
+Merregon,4,Fiend,Medium,16,45,,lawful evil
+Merrenoloth,3,Fiend,Medium,13,40,swim,neutral evil
+Merrow,2,Monstrosity,Large,13,45,swim,chaotic evil
+Metallic Greatwyrm,28,Dragon,Gargantuan,22,565,"fly, swim",lawful good
+Mezzoloth,5,Fiend,Medium,18,75,,neutral evil
+Mighty Servant of LeukO,,Construct,Huge,22,310,,
+Miirym,22,Undead,Large,10,262,fly,
+Mimic,2,Monstrosity,Medium,12,58,,neutral
+Mind Flayer,7,Aberration,Medium,15,71,,lawful evil
+Mindwitness,5,Aberration,Large,15,75,fly,lawful neutral
+Minor Air Elemental,0.25,Elemental,Tiny,13,16,fly,neutral
+Minor Earth Elemental,1,Elemental,Small,15,60,,neutral
+Minor Fire Elemental,2,Elemental,Medium,12,39,,neutral
+Minor Water Elemental,0.5,Elemental,Small,13,39,swim,neutral
+Minotaur,5,Monstrosity,Large,15,119,,chaotic evil
+Minotaur Skeleton,2,Undead,Large,12,67,,lawful evil
+Mist Hulk,6,Elemental,Large,15,94,fly,chaotic neutral
+Mold Zombie,3,Undead,Medium,13,75,,chaotic evil
+Moloch,21,Fiend,Large,19,253,,lawful evil
+Molydeus,21,Fiend,Huge,19,216,,chaotic evil
+Monodrone,0.125,Construct,Medium,15,5,fly,lawful neutral
+Moon Nymph,8,Aberration,Medium,13,110,fly,chaotic neutral
+Moonstone Dragon Wyrmling,2,Dragon,Medium,17,39,fly,neutral
+Morkoth,11,Aberration,Large,17,165,swim,chaotic evil
+Mountain Goat,0.125,Beast,Medium,11,13,,unaligned
+Mouth of Grolantor,6,Giant,Huge,14,105,,chaotic evil
+Mud Hulk,3,Elemental,Large,13,68,,chaotic evil
+Mud Mephit,0.25,Elemental,Small,11,27,"fly, swim",neutral evil
+Muiral,13,Monstrosity,Large,16,195,,chaotic evil
+Mule,0.125,Beast,Medium,10,11,,unaligned
+Mummified Warrior,0.25,Undead,Medium,8,19,,neutral
+Mummy,3,Undead,Medium,11,58,,lawful evil
+Mummy Lord,15,Undead,Medium,17,97,,lawful evil
+Myconid Adult,0.5,Plant,Medium,12,22,,lawful neutral
+Myconid Sovereign,2,Plant,Large,13,60,,lawful neutral
+Myconid Sprout,0,Plant,Small,10,7,,lawful neutral
+Nabassu,15,Fiend,Medium,18,190,fly,chaotic evil
+Nachzehrer,8,Undead,Medium,15,136,burrow,chaotic evil
+Nagpa,17,Monstrosity,Medium,19,203,,neutral evil
+Nain,4,Monstrosity,Large,13,102,"climb, swim",chaotic neutral
+Nalfeshnee,13,Fiend,Large,18,184,fly,chaotic evil
+Narzugon,13,Fiend,Medium,20,112,,lawful evil
+Necromancer Wizard,9,Humanoid,Medium,12,110,,any alignment
+Necromite of Myrkul,0.5,Humanoid,Medium,11,13,,neutral evil
+Necrotic Tick,0.25,Beast,Tiny,15,3,climb,unaligned
+Needle Blight,0.25,Plant,Medium,12,11,,neutral evil
+Neogi,3,Aberration,Small,15,33,,lawful evil
+Neogi Hatchling,0.125,Aberration,Tiny,11,7,,lawful evil
+Neogi Master,4,Aberration,Medium,15,71,,lawful evil
+Neothelid,13,Aberration,Gargantuan,16,232,,chaotic evil
+Night Blade,0.25,Humanoid,Medium,12,11,,chaotic evil
+Night Hag,5,Fiend,Medium,17,112,,neutral evil
+Nightmare,3,Fiend,Large,13,68,fly,neutral evil
+Nightwalker,20,Undead,Huge,14,337,fly,chaotic evil
+Nilbog,1,Fey,Small,13,7,,chaotic neutral
+Ningyo,7,Aberration,Small,15,77,"fly, swim",neutral evil
+Noble,0.125,Humanoid,Medium,15,9,,any alignment
+Nothic,2,Aberration,Medium,15,45,,neutral evil
+Nupperibo,0.5,Fiend,Medium,13,11,,lawful evil
+Nycaloth,9,Fiend,Large,18,123,fly,neutral evil
+Oblex Spawn,0.25,Ooze,Tiny,13,18,,lawful evil
+Ochre Jelly,2,Ooze,Large,8,45,,unaligned
+Octopus,0,Beast,Small,12,3,swim,unaligned
+Ogre,2,Giant,Large,11,59,,chaotic evil
+Ogre Battering Ram,4,Giant,Large,11,76,,chaotic evil
+Ogre Bolt Launcher,2,Giant,Large,13,59,,chaotic evil
+Ogre Chain Brute,3,Giant,Large,11,59,,chaotic evil
+Ogre Howdah,2,Giant,Large,15,59,,chaotic evil
+Ogre Zombie,2,Undead,Large,8,85,,neutral evil
+Ogrémoch,20,Elemental,Gargantuan,20,526,,neutral evil
+Oinoloth,12,Fiend,Medium,17,119,,neutral evil
+Olhydra,18,Elemental,Huge,18,324,swim,neutral evil
+Oliphaunt,8,Beast,Gargantuan,14,148,,unaligned
+Oni,7,Giant,Large,16,110,fly,lawful evil
+Orc,0.5,Humanoid,Medium,13,15,,chaotic evil
+Orc Blade of Ilneval,4,Humanoid,Medium,18,60,,chaotic evil
+Orc Claw of Luthic,2,Humanoid,Medium,14,45,,chaotic evil
+Orc Eye of Gruumsh,2,Humanoid,Medium,16,45,,chaotic evil
+Orc Hand of Yurtrus,2,Humanoid,Medium,12,30,,chaotic evil
+Orc Red Fang of Shargaas,3,Humanoid,Medium,15,52,,chaotic evil
+Orc War Chief,4,Humanoid,Medium,16,93,,chaotic evil
+Orcus,26,Fiend,Huge,17,405,fly,chaotic evil
+Orog,2,Humanoid,Medium,18,42,,chaotic evil
+Orthon,10,Fiend,Large,17,105,,lawful evil
+Orthrus,3,Monstrosity,Medium,13,60,,lawful neutral
+Otyugh,5,Aberration,Large,14,114,,neutral
+Ouroboros,6,Dragon,Huge,15,94,fly,neutral
+Owl,0,Beast,Tiny,11,1,fly,unaligned
+Owlbear,3,Monstrosity,Large,13,59,,unaligned
+Ox,0.25,Beast,Large,10,15,,unaligned
+Panther,0.25,Beast,Medium,12,13,,unaligned
+Pech,2,Elemental,Small,15,33,climb,neutral good
+Pegasus,2,Celestial,Large,12,59,fly,chaotic good
+Pentadrone,2,Construct,Large,16,32,,lawful neutral
+Peryton,2,Monstrosity,Medium,13,33,fly,chaotic evil
+Phantom,1,Undead,Medium,11,22,fly,any alignment
+Phase Spider,3,Monstrosity,Large,13,32,,unaligned
+Phoenix,16,Elemental,Gargantuan,18,175,fly,neutral
+Piasa,6,Dragon,Large,15,44,fly,unaligned
+Piercer,0.5,Monstrosity,Medium,15,22,,unaligned
+Pillar of the Lost Magocracy,4,Construct,Huge,14,90,,chaotic neutral
+Pit Fiend,20,Fiend,Large,19,300,fly,lawful evil
+Pixie,0.25,Fey,Tiny,15,1,fly,neutral good
+Planetar,16,Celestial,Large,19,200,fly,lawful good
+Plesiosaurus,2,Beast,Large,13,68,swim,unaligned
+Poisonous Snake,0.125,Beast,Tiny,13,2,swim,unaligned
+Polar Bear,2,Beast,Large,12,42,swim,unaligned
+Pony,0.125,Beast,Medium,10,11,,unaligned
+Priest,2,Humanoid,Medium,13,27,,any alignment
+Pseudodragon,0.25,Dragon,Tiny,13,7,fly,neutral good
+Pteranodon,0.25,Beast,Medium,13,13,fly,unaligned
+Purple Worm,15,Monstrosity,Gargantuan,18,247,,unaligned
+Quadrone,1,Construct,Medium,16,22,fly,lawful neutral
+Quaggoth,2,Humanoid,Medium,13,45,,chaotic neutral
+Quaggoth Spore Servant,1,Plant,Medium,13,45,,unaligned
+Quasit,1,Fiend,Tiny,13,7,,chaotic evil
+Quetzalcoatlus,2,Beast,Huge,13,30,fly,unaligned
+Quickling,1,Fey,Tiny,16,10,,chaotic evil
+Quickstep,5,Fey,Small,16,49,,neutral evil
+Quiet Soul,6,Undead,Medium,15,90,,neutral evil
+Quipper,0,Beast,Tiny,13,1,swim,unaligned
+Rageipede,2,Beast,Small,15,55,,unaligned
+Rakshasa,13,Fiend,Medium,16,110,,lawful evil
+Ramag Portal Master,5,Humanoid,Medium,12,71,,neutral
+Rat,0,Beast,Tiny,10,1,,unaligned
+Ratfolk Mercenary,2,Humanoid,Small,15,45,swim,neutral
+Raven,0,Beast,Tiny,12,1,fly,unaligned
+Razorleaf,5,Plant,Medium,14,112,,neutral evil
+Reaper of Bhaal,2,Humanoid,Medium,15,27,,chaotic evil
+Red Abishai,19,Fiend,Medium,22,289,fly,lawful evil
+Red Dragon Wyrmling,4,Dragon,Medium,17,75,fly,chaotic evil
+Red Slaad,5,Aberration,Large,14,93,,chaotic neutral
+Redcap,3,Fey,Small,14,45,,chaotic evil
+Reef Manta Ray,0.5,Beast,Large,12,16,swim,unaligned
+Reef Shark,0.5,Beast,Medium,12,22,swim,unaligned
+Regisaur,14,Monstrosity,Gargantuan,17,181,,unaligned
+Remorhaz,11,Monstrosity,Huge,17,195,,unaligned
+Retriever,14,Construct,Large,19,210,,lawful evil
+Revenant,5,Undead,Medium,13,136,,neutral
+Rhinoceros,2,Beast,Large,11,45,,unaligned
+Riding Horse,0.25,Beast,Large,10,13,,unaligned
+Rime Hulk,5,Elemental,Large,15,85,,neutral evil
+Ring Servant,8,Construct,Large,15,114,fly,neutral
+Roachling Scout,2,Humanoid,Small,14,63,climb,chaotic neutral
+Roc,11,Monstrosity,Gargantuan,15,248,fly,unaligned
+Roper,5,Monstrosity,Large,20,93,,neutral evil
+Rot Troll,9,Giant,Large,16,138,,chaotic evil
+Rothé,0.25,Beast,Large,10,15,,unaligned
+Rug of Smothering,2,Construct,Large,12,33,,unaligned
+Runic Colossus,21,Construct,Gargantuan,20,315,,unaligned
+Rust Monster,0.5,Monstrosity,Medium,14,27,,unaligned
+Rutterkin,2,Fiend,Medium,12,37,,chaotic evil
+SaberToothed Tiger,2,Beast,Large,12,52,,unaligned
+Sage,0.5,Humanoid,Medium,10,22,,
+Sahuagin,0.5,Humanoid,Medium,12,22,swim,lawful evil
+Sahuagin Baron,5,Humanoid,Large,16,76,swim,lawful evil
+Sahuagin Priestess,2,Humanoid,Medium,12,33,swim,lawful evil
+Salamander,5,Elemental,Large,15,90,,neutral evil
+Sapphire Dragon Wyrmling,3,Dragon,Medium,16,45,fly,lawful neutral
+Satyr,0.5,Fey,Medium,14,31,,chaotic neutral
+Scarecrow,1,Construct,Medium,11,36,,chaotic evil
+Scion of Grolantor,22,Giant,Gargantuan,18,402,,chaotic evil
+Scion of Memnor,26,Giant,Gargantuan,20,656,fly,chaotic neutral
+Scion of Skoraeus,23,Giant,Gargantuan,19,444,,neutral
+Scion of Stronmaus,27,Giant,Gargantuan,20,656,"fly, swim",chaotic good
+Scion of Surtur,25,Giant,Gargantuan,20,546,,lawful evil
+Scion of Thrym,24,Giant,Gargantuan,19,499,,neutral evil
+Scorpion,0,Beast,Tiny,11,1,,unaligned
+Scout,0.5,Humanoid,Medium,13,16,,any alignment
+Sea Hag,2,Fey,Medium,14,52,swim,chaotic evil
+Sea Horse,0,Beast,Tiny,11,1,swim,unaligned
+Sea Spawn,1,Monstrosity,Medium,11,32,swim,neutral evil
+Seal,0,Beast,Medium,11,9,swim,unaligned
+Sentinel in Darkness,7,Construct,Large,13,127,,unaligned
+Serpentfolk of Yig,1,Humanoid,Medium,12,40,,neutral evil
+Shadarkai Gloom Weaver,9,Humanoid,Medium,14,104,,neutral evil
+Shadarkai Shadow Dancer,7,Humanoid,Medium,15,71,,any alignment
+Shadarkai Soul Monger,11,Humanoid,Medium,15,136,,neutral evil
+Shadow,0.5,Undead,Medium,12,16,,chaotic evil
+Shadow Blight,1,Plant,Small,13,65,,neutral evil
+Shadow Demon,4,Fiend,Medium,13,66,fly,chaotic evil
+Shadow Mastiff,2,Monstrosity,Medium,12,33,,neutral evil
+Shadow Mastiff Alpha,3,Monstrosity,Medium,12,44,,neutral evil
+Shadow Ooze,3,Ooze,Medium,8,76,climb,unaligned
+Shadow River Lord,9,Undead,Medium,16,135,swim,neutral evil
+Shadow Spirit,,Monstrosity,Medium,11,35,,
+Shambling Mound,5,Plant,Large,15,136,swim,unaligned
+Shield Guardian,7,Construct,Large,17,142,,unaligned
+Shoosuva,8,Fiend,Large,14,136,,chaotic evil
+Shrieker,0,Plant,Medium,5,13,,unaligned
+Sibriex,18,Fiend,Huge,19,150,fly,chaotic evil
+Silver Dragon Wyrmling,2,Dragon,Medium,17,45,fly,lawful good
+Sivak Draconian,4,Monstrosity,Large,16,57,fly,lawful evil
+Skeletal Knight,7,Undead,Medium,18,112,,lawful evil
+Skeleton,0.25,Undead,Medium,13,13,,lawful evil
+Skulk,0.5,Monstrosity,Medium,14,18,,chaotic neutral
+Skull Lasher of Myrkul,1,Humanoid,Medium,12,32,,neutral evil
+Skull Lord,15,Undead,Medium,18,112,,lawful evil
+Slaad Tadpole,0.125,Aberration,Tiny,12,10,,chaotic neutral
+Slithering Tracker,3,Ooze,Medium,14,39,swim,chaotic evil
+Smoke Mephit,0.25,Elemental,Small,12,22,fly,neutral evil
+Solar,21,Celestial,Large,21,243,fly,lawful good
+Spawn of Kyuss,5,Undead,Medium,10,76,,chaotic evil
+Spectator,3,Aberration,Medium,14,39,fly,lawful neutral
+Specter,1,Undead,Medium,12,22,fly,chaotic evil
+Spectral Cloud,13,Undead,Huge,11,189,fly,neutral
+Spellcaster,,Humanoid,Medium,12,9,,
+Sperm Whale,8,Beast,Gargantuan,13,189,swim,unaligned
+Spider,0,Beast,Tiny,12,1,,unaligned
+Spined Devil,2,Fiend,Small,13,22,fly,lawful evil
+Spirit Naga,8,Monstrosity,Large,15,75,,chaotic evil
+Spirit Troll,11,Giant,Large,17,130,,chaotic evil
+Spotted Lion,3,Beast,Huge,15,66,,unaligned
+Spring Eladrin,10,Fey,Medium,19,165,,chaotic neutral
+Sprite,0.25,Fey,Tiny,15,2,fly,neutral good
+Spy,1,Humanoid,Medium,12,27,,any alignment
+Stalker of Baphomet,12,Fiend,Huge,17,200,,chaotic evil
+Star Spawn Grue,0.25,Aberration,Small,11,17,,neutral evil
+Star Spawn Hulk,10,Aberration,Large,16,136,,chaotic evil
+Star Spawn Larva Mage,16,Aberration,Medium,16,168,,chaotic evil
+Star Spawn Mangler,5,Aberration,Medium,14,71,,chaotic evil
+Star Spawn Seer,13,Aberration,Medium,17,153,,neutral evil
+Steam Mephit,0.25,Elemental,Small,10,21,fly,neutral evil
+Steel Defender,,Construct,Medium,15,2,,
+Steel Predator,16,Construct,Large,20,207,,lawful neutral
+Stench Kow,0.5,Fiend,Large,10,15,,unaligned
+Stirge,0.125,Beast,Tiny,14,2,fly,unaligned
+Stone Cursed,1,Construct,Medium,17,19,,lawful evil
+Stone Giant,7,Giant,Huge,17,126,,neutral
+Stone Giant Dreamwalker,10,Giant,Huge,18,161,,chaotic neutral
+Stone Giant of Evil Earth,9,Giant,Huge,20,137,,neutral evil
+Stone Giant Rockspeaker,16,Giant,Huge,19,276,,any alignment
+Stone Golem,10,Construct,Large,17,178,,unaligned
+Storm Crab,11,Monstrosity,Gargantuan,18,155,swim,unaligned
+Storm Giant,13,Giant,Huge,16,230,swim,chaotic good
+Storm Giant Quintessent,16,Giant,Huge,12,230,"fly, swim",chaotic good
+Storm Giant Tempest Caller,20,Giant,Huge,17,310,"fly, swim",any alignment
+Storm Herald,17,Aberration,Huge,16,287,swim,lawful evil
+Storm Spirit,0.5,Elemental,Medium,14,22,fly,neutral
+Strahd von Zarovich,15,Undead,Medium,16,144,,lawful evil
+Succubus,4,Fiend,Medium,15,66,fly,neutral evil
+Summer Eladrin,10,Fey,Medium,19,165,,chaotic neutral
+Swarm of Bats,0.25,Swarm of Tiny beasts,Medium,12,22,fly,unaligned
+Swarm of Cranium Rats,5,Swarm of Tiny aberrations,Medium,12,76,,lawful evil
+Swarm of Insects,0.5,Swarm of Tiny beasts,Medium,12,22,,unaligned
+Swarm of Poisonous Snakes,2,Swarm of Tiny beasts,Medium,14,36,swim,unaligned
+Swarm of Quippers,1,Swarm of Tiny beasts,Medium,13,28,swim,unaligned
+Swarm of Rats,0.25,Swarm of Tiny beasts,Medium,10,24,,unaligned
+Swarm of Ravens,0.25,Swarm of Tiny beasts,Medium,12,24,fly,unaligned
+Swarm of Rot Grubs,0.5,Swarm of Tiny beasts,Medium,8,22,,unaligned
+Swashbuckler,3,Humanoid,Medium,17,66,,any alignment
+Sword Wraith Commander,8,Undead,Medium,18,127,,lawful evil
+Sword Wraith Warrior,3,Undead,Medium,16,45,,lawful evil
+Tabaxi Hunter,1,Humanoid,Medium,14,40,,chaotic good
+Tabaxi Minstrel,0.25,Humanoid,Medium,12,22,,chaotic good
+Tanarukk,5,Fiend,Medium,14,95,,chaotic evil
+Tarrasque,30,Monstrosity,Gargantuan,25,676,,unaligned
+Tempest Spirit,15,Undead,Huge,12,195,fly,chaotic evil
+Terror Bird,2,Beast,Large,12,65,,unaligned
+Thorny Vegepygmy,1,Plant,Medium,14,27,,neutral
+Thrikreen,1,Humanoid,Medium,15,33,,chaotic neutral
+Thug,0.5,Humanoid,Medium,11,32,,any nongood alignment
+Tiamat,30,Fiend,Gargantuan,25,615,fly,chaotic evil
+Tiger,1,Beast,Large,12,37,,unaligned
+Tiny Servant,,Construct,Tiny,15,10,,unaligned
+Titanothere,5,Beast,Huge,16,136,,unaligned
+Titivilus,16,Fiend,Medium,20,150,fly,lawful evil
+Tlincalli,5,Monstrosity,Large,15,85,,neutral
+Topaz Dragon Wyrmling,2,Dragon,Medium,16,33,"fly, swim",chaotic neutral
+Tortle,0.25,Humanoid,Medium,17,22,,any alignment
+Tortle Druid,2,Humanoid,Medium,17,33,,any alignment
+Transmuter Wizard,5,Humanoid,Medium,12,49,,any alignment
+Trapper,3,Monstrosity,Large,13,68,,unaligned
+Treant,9,Plant,Huge,16,138,,chaotic good
+Tribal Warrior,0.125,Humanoid,Medium,12,11,,any alignment
+Triceratops,5,Beast,Huge,13,95,,unaligned
+Tridrone,0.5,Construct,Medium,15,16,,lawful neutral
+Troglodyte,0.25,Humanoid,Medium,11,13,,chaotic evil
+Troll,5,Giant,Large,15,84,,chaotic evil
+Troll Amalgam,17,Giant,Gargantuan,15,217,,chaotic evil
+Troll Mutate,7,Giant,Large,16,95,fly,chaotic evil
+Trollkin Grunt,2,Humanoid,Medium,14,45,,neutral
+Tulpa,4,Undead,Medium,13,39,fly,neutral evil
+Tveirherjar,7,Undead,Medium,18,102,,lawful evil
+Twig Blight,0.125,Plant,Small,13,4,,neutral evil
+Tyrannosaurus Rex,8,Beast,Huge,13,136,,unaligned
+Ulitharid,9,Aberration,Large,15,127,,lawful evil
+Ultroloth,13,Fiend,Medium,19,153,fly,neutral evil
+Umber Hulk,5,Monstrosity,Large,18,93,,chaotic evil
+Undead Phoenix,12,Undead,Huge,17,142,fly,chaotic evil
+Undead Spirit,,Undead,Medium,11,30,fly,
+Undine,5,Fey,Medium,15,85,swim,chaotic neutral
+Unhatched,4,Undead,Small,14,71,fly,chaotic evil
+Unicorn,5,Celestial,Large,12,67,,lawful good
+Ursa Polaris,7,Monstrosity,Large,15,133,swim,neutral evil
+Uthgardt Shaman,2,Humanoid,Medium,13,38,,neutral evil
+Vajra Safahr,13,Humanoid,Medium,14,126,,lawful neutral
+Vampire,13,Undead,Medium,16,144,,lawful evil
+Vampire Priestess,8,Undead,Medium,16,105,,lawful evil
+Vampire Spawn,5,Undead,Medium,15,82,,neutral evil
+Vampiric Knight,11,Undead,Medium,20,127,,neutral evil
+Vampiric Mist,3,Undead,Medium,13,30,fly,chaotic evil
+Vargouille,1,Fiend,Tiny,12,18,fly,chaotic evil
+Vecna the Archlich,26,Undead,Medium,18,272,,lawful evil
+Vegepygmy,0.25,Plant,Small,13,13,,neutral
+Vegepygmy Chief,2,Plant,Small,14,33,,neutral
+Vellynne Harpell,4,Humanoid,Medium,13,67,,neutral
+Velociraptor,0.25,Beast,Tiny,13,10,,unaligned
+Venerable Shadow,2,Undead,Medium,13,27,,chaotic evil
+Venom Elemental,4,Elemental,Large,14,93,swim,neutral
+Venom Maw Hydra,12,Monstrosity,Huge,15,231,swim,unaligned
+Venom Troll,7,Giant,Large,15,94,,chaotic evil
+Veteran,3,Humanoid,Medium,17,58,,any alignment
+Vine Blight,0.5,Plant,Medium,12,26,,neutral evil
+Vines of Nemthyr,8,Plant,Large,15,133,burrow,neutral evil
+Violet Fungus,0.25,Plant,Medium,5,18,,unaligned
+Vrock,6,Fiend,Large,15,104,fly,chaotic evil
+Vulture,0,Beast,Medium,10,5,fly,unaligned
+Walrus,0.25,Beast,Large,9,22,swim,unaligned
+War Priest,9,Humanoid,Medium,18,117,,any alignment
+Warhorse,0.5,Beast,Large,11,19,,unaligned
+Warhorse Skeleton,0.5,Undead,Large,13,22,,lawful evil
+Warlock of the Archfey,4,Humanoid,Medium,13,67,,any alignment
+Warlock of the Fiend,7,Humanoid,Medium,13,78,,any alignment
+Warlock of the Great Old One,6,Humanoid,Medium,13,91,,any alignment
+Warlock's Trumperbloom,7,Plant,Large,15,152,,neutral evil
+Warlord,12,Humanoid,Medium,18,229,,any alignment
+Warrior,,Humanoid,Medium,16,13,,
+Wastrilith,13,Fiend,Large,18,157,swim,chaotic evil
+Water Elemental,5,Elemental,Large,14,114,swim,neutral
+Water Elemental Myrmidon,7,Elemental,Medium,18,127,swim,neutral
+Water Horse,4,Fey,Medium,14,77,swim,neutral evil
+Water Weird,3,Elemental,Large,13,58,swim,neutral
+Weasel,0,Beast,Tiny,13,1,,unaligned
+Wendigo,11,Monstrosity,Medium,16,150,,chaotic evil
+Were Bat,2,Humanoid,Small,13,24,fly,neutral evil
+Werebear,5,Humanoid,Medium,10,135,,neutral good
+Wereboar,4,Humanoid,Medium,10,78,,neutral evil
+Wererat,2,Humanoid,Medium,12,33,,lawful evil
+Weretiger,4,Humanoid,Medium,12,120,,neutral
+Werewolf,3,Humanoid,Medium,11,58,,chaotic evil
+Wersten Kern,14,Undead,Medium,18,178,,lawful evil
+White Abishai,6,Fiend,Medium,15,68,fly,lawful evil
+White Dragon Wyrmling,2,Dragon,Medium,16,32,"fly, swim",chaotic evil
+White Stag,2,Celestial,Large,13,45,,chaotic good
+Wight,3,Undead,Medium,14,45,,neutral evil
+Wild Dog,0.125,Beast,Medium,12,5,,unaligned
+Wild Dog Alpha,1,Beast,Large,12,26,,unaligned
+Wildfire Spirit,,Elemental,Small,13,5,fly,
+Willo'Wisp,2,Undead,Tiny,19,22,fly,chaotic evil
+Wind Eater,2,Undead,Medium,14,65,,lawful evil
+Wind Weasel,2,Fey,Medium,13,52,,chaotic neutral
+Winged Kobold,0.25,Humanoid,Small,13,7,fly,lawful evil
+Winter Eladrin,10,Fey,Medium,19,165,,chaotic neutral
+Winter Wolf,3,Monstrosity,Large,13,75,,neutral evil
+Wolf,0.25,Beast,Medium,13,11,,unaligned
+Wood Woad,5,Plant,Medium,18,75,,lawful neutral
+Worg,0.5,Monstrosity,Large,13,26,,neutral evil
+Wraith,5,Undead,Medium,13,67,fly,neutral evil
+Wretched Sorrowsworn,0.25,Monstrosity,Small,15,10,,neutral evil
+Wyvern,6,Dragon,Large,13,110,fly,unaligned
+Wyvern Knight,5,Humanoid,Medium,20,102,,lawful evil
+Xenabsorber,3,Aberration,Medium,15,65,,chaotic neutral
+Xiphus,5,Fey,Small,15,55,,chaotic evil
+Xorn,5,Elemental,Medium,19,73,,neutral
+Xvart,0.125,Monstrosity,Small,13,7,,chaotic evil
+Xvart Warlock of Raxivort,1,Monstrosity,Small,12,22,,chaotic evil
+Yaga Goo,5,Ooze,Small,14,85,climb,neutral evil
+Yagnoloth,11,Fiend,Large,17,147,,neutral evil
+Yakirian,2,Humanoid,Medium,13,67,,lawful neutral
+YanCBin,18,Elemental,Huge,22,283,fly,neutral evil
+Yeenoghu,24,Fiend,Huge,20,333,,chaotic evil
+Yellow Musk Creeper,2,Plant,Medium,6,60,,unaligned
+Yellow Musk Zombie,0.25,Undead,Medium,9,33,,unaligned
+Yeth Hound,4,Fey,Large,14,51,fly,neutral evil
+Yeti,3,Monstrosity,Large,12,51,,chaotic evil
+Yochlol,10,Fiend,Medium,15,136,,chaotic evil
+Young Amethyst Dragon,9,Dragon,Large,18,168,"fly, swim",neutral
+Young Black Dragon,7,Dragon,Large,18,127,"fly, swim",chaotic evil
+Young Blue Dragon,9,Dragon,Large,18,152,fly,lawful evil
+Young Brass Dragon,6,Dragon,Large,17,110,fly,chaotic good
+Young Bronze Dragon,8,Dragon,Large,18,142,"fly, swim",lawful good
+Young Copper Dragon,7,Dragon,Large,17,119,fly,chaotic good
+Young Crystal Dragon,5,Dragon,Large,15,95,fly,chaotic neutral
+Young Deep Dragon,5,Dragon,Large,16,93,"fly, swim",neutral evil
+Young Dragon Turtle,10,Dragon,Huge,19,178,swim,neutral
+Young Emerald Dragon,8,Dragon,Large,17,142,fly,lawful neutral
+Young Gold Dragon,10,Dragon,Large,18,178,"fly, swim",lawful good
+Young Green Dragon,8,Dragon,Large,18,136,"fly, swim",lawful evil
+Young Kruthik,0.125,Monstrosity,Small,16,9,,unaligned
+Young Moonstone Dragon,8,Dragon,Large,18,144,fly,neutral
+Young Red Dragon,10,Dragon,Large,18,178,fly,chaotic evil
+Young Red Shadow Dragon,13,Dragon,Large,18,178,fly,chaotic evil
+Young Remorhaz,5,Monstrosity,Large,14,93,,unaligned
+Young Sapphire Dragon,9,Dragon,Large,17,157,fly,lawful neutral
+Young Sea Serpent,8,Dragon,Huge,16,123,swim,neutral
+Young Silver Dragon,9,Dragon,Large,18,168,fly,lawful good
+Young Topaz Dragon,7,Dragon,Large,17,127,"fly, swim",chaotic neutral
+Young White Dragon,6,Dragon,Large,17,133,"fly, swim",chaotic evil
+Yuanti Abomination,7,Monstrosity,Large,15,127,,neutral evil
+Yuanti Anathema,12,Monstrosity,Huge,16,189,swim,neutral evil
+Yuanti Broodguard,2,Monstrosity,Medium,14,45,,neutral evil
+Yuanti Malison,3,Monstrosity,Medium,12,66,,neutral evil
+Yuanti Mind Whisperer,4,Monstrosity,Medium,14,71,,neutral evil
+Yuanti Nightmare Speaker,4,Monstrosity,Medium,14,71,,neutral evil
+Yuanti Pit Master,5,Monstrosity,Medium,14,88,,neutral evil
+Yuanti Pureblood,1,Humanoid,Medium,11,40,,neutral evil
+Zaratan,22,Elemental,Gargantuan,21,307,swim,neutral
+Zargon the Returner,17,Aberration,Huge,18,253,swim,lawful evil
+Zariel,26,Fiend,Large,21,420,fly,lawful evil
+Ziphius,8,Aberration,Gargantuan,16,135,swim,neutral
+Zombie,0.25,Undead,Medium,8,22,,neutral evil
+Zombie Lord,5,Undead,Medium,15,82,,neutral evil
+Zoog,0,Aberration,Tiny,13,3,climb,chaotic evil
+Zuggtmoy,23,Fiend,Large,18,304,,chaotic evil
