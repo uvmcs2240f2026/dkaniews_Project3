@@ -143,12 +143,12 @@ private:
         if (c < n->value) {
             // Value is less than current node. Go to node's left child.
             ld++;
-            return find(c, n->leftChild);
+            return find(c, n->leftChild, ld);
         }
         if (n->value < c) {
             // Value is greater than current node. Go to node's right child.
             ld++;
-            return find(c, n->rightChild);
+            return find(c, n->rightChild, ld);
         }
         // If code reaches here, c == n->value. Node found!
         splay(n);
