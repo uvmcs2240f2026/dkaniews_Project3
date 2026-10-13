@@ -42,6 +42,9 @@ private:
 
     // Helper recursive function to find a value in the tree.
     bool find(const Comparable &c, AVLNode* n, int& ld) const {
+        if (n == root) {
+            ld = 0;
+        }
         if (n == nullptr) {
             // Reached a dead end. Value not in tree.
             return false;
