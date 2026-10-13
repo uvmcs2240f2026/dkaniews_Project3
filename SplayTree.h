@@ -132,17 +132,19 @@ private:
     }
 
     // Helper recursive function to find a value in the tree.
-    bool find(const Comparable &c, SplayNode* &n) {
+    bool find(const Comparable &c, SplayNode* &n, int& ld) {
         if (n == nullptr) {
             // Reached a dead end. Value not in tree.
             return false;
         }
         if (c < n->value) {
             // Value is less than current node. Go to node's left child.
+            ld++;
             return find(c, n->leftChild);
         }
         if (n->value < c) {
             // Value is greater than current node. Go to node's right child.
+            ld++;
             return find(c, n->rightChild);
         }
         // If code reaches here, c == n->value. Node found!
