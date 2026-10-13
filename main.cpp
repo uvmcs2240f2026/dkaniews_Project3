@@ -8,6 +8,7 @@
 using namespace std;
 
 int main() {
+    int depth = 0;
     // Example of writing out to a file
     ofstream outFile;
     outFile.open("../data/example-output.csv");
@@ -21,7 +22,7 @@ int main() {
     if (!bst1.add(8)) {
         cout << "Could not add 8 to the tree." << endl;
     }
-    if (bst1.find(8)) {
+    if (bst1.find(8, depth)) {
         cout << "Found 8 in the tree." << endl;
     }
     if (bst1.getSize() != 1) {
@@ -39,12 +40,17 @@ int main() {
     }
     cout << "Size: " << test.getSize() << endl;
     for (int i = 0; i < 100; ++i) {
-        if (!test.find(i)) {
+        if (!test.find(i, depth)) {
             cout << "Could not find " << i << endl;
         }
     }
 
-    
+    BinarySearchTree<int> Bst;
+    for (int i = 1; i <= 100; ++i) {
+        if (!Bst.add(i)) {
+            cout << "Could not add " << i << endl;
+        }
+    }
 
     return 0;
 }

@@ -231,9 +231,9 @@ public:
         return (root == nullptr);
     }
 
-    bool find(const Comparable &c) const {
+    bool find(const Comparable &c, int& d) const {
         // calls private helper function
-        return find(c, root);
+        return find(c, root, d);
     }
 
     bool add(const Comparable &c) {
