@@ -1,11 +1,11 @@
 /**
- *  Deirdre Kaniewski
+*  Deirdre Kaniewski
  *  CS 2240
  *  Section A
  */
 
-#ifndef PROJECT1_DNDMONSTERS_H
-#define PROJECT1_DNDMONSTERS_H
+#ifndef PROJECT2_DND_MONSTERS_H
+#define PROJECT2_DND_MONSTERS_H
 
 #include <fstream>
 #include <vector>
@@ -84,11 +84,11 @@ public:
     }
 
     friend ostream& operator << (ostream& outs, const DndMon& mons) {
-        outs << mons.name;
-        outs << mons.cr;
-        outs << mons.type;
-        outs << mons.size;
-        outs << mons.ac;
+        outs << mons.name << " ";
+        outs << mons.cr << " ";
+        outs << mons.type << " ";
+        outs << mons.size << " ";
+        outs << mons.ac << " ";
         return outs;
     }
 
@@ -108,7 +108,6 @@ void getFileData(string fName, vector<DndMon>& DndMons) {
     fileIn.open(fName);
 
     if (fileIn) {
-        cout << "Opened file" << endl;
         string header;
         getline(fileIn, header);
 
@@ -126,7 +125,6 @@ void getFileData(string fName, vector<DndMon>& DndMons) {
             ac = -1;
             //read in name
             getline(fileIn, name, ',');
-            cout << name << ", ";
 
             //read in cr
             fileIn >> cr;
@@ -135,21 +133,18 @@ void getFileData(string fName, vector<DndMon>& DndMons) {
                 fileIn.clear();
             }
             fileIn >> comma;
-            cout << cr << ", ";;
 
             //read in type
             getline(fileIn, type, ',');
-            cout << type << ", ";;
 
             //read in size
             getline(fileIn, size, ',');
-            cout << size << ", ";
 
             //read in ac
             fileIn >> ac;
             string newLine;
             getline(fileIn, newLine);
-            cout << ac << endl << endl;
+
 
             DndMons.push_back(DndMon(name, cr, type, size, ac));
         }
@@ -248,4 +243,7 @@ void sizeVary(std::vector<DndMon>& mons) {
 }
 
 
-#endif //PROJECT1_DNDMONSTERS_H
+
+
+
+#endif //PROJECT2_DND_MONSTERS_H

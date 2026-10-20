@@ -4,7 +4,6 @@
 #include <fstream>
 #include <iostream>
 #include <vector>
-#include <algorithm>
 #include "DnDMonsters.h"
 using namespace std;
 
@@ -106,6 +105,26 @@ int main() {
         outFile << depth << endl;
     }
     outFile.close();
+
+    BinarySearchTree<DndMon> BstDM;
+    AVLTree<DndMon> AvltDM;
+    SplayTree<DndMon> StDM;
+    vector<DndMon> Mons;
+    getFileData("../Dnd_Monster_Data.csv", Mons);
+
+    for (int i = 1; i<=1000; i++) {
+        if (!BstDM.add(Mons[i])) {
+            cout << "Could not add " << i << endl;
+        }
+        if (!AvltDM.add(Mons[i])) {
+            cout << "Could not add " << i << endl;
+        }
+        if (!StDM.add(Mons[i])) {
+            cout << "Could not add " << i << endl;
+        }
+    }
+
+
 
 
 
