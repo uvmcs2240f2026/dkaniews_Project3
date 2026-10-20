@@ -123,6 +123,23 @@ int main() {
         }
     }
 
+    SplayTree<DndMon> Monsters;
+    for (int i = 1; i<=1000; i++) {
+        if (!Monsters.add(Mons[i])) {
+            cout << "Could not add " << i << endl;
+        }
+    }
+
+    outFile.open("../data/Monsters_Data.csv");
+    for (int i=1; i<=1000; i++) {
+        outFile<< Mons[i] << " ";
+        for (int j=1; j<5; j++) {
+            Monsters.find(Mons[i], depth);
+            outFile<< depth<< " ";
+        }
+        outFile<< endl;
+    }
+
 
 
 

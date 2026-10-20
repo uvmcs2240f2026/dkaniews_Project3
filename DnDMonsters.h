@@ -85,10 +85,10 @@ public:
 
     friend ostream& operator << (ostream& outs, const DndMon& mons) {
         outs << mons.name << " ";
-        outs << mons.cr << " ";
-        outs << mons.type << " ";
-        outs << mons.size << " ";
-        outs << mons.ac << " ";
+        // outs << mons.cr << " ";
+        // outs << mons.type << " ";
+        // outs << mons.size << " ";
+        // outs << mons.ac << " ";
         return outs;
     }
 
