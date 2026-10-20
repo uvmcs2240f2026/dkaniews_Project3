@@ -82,6 +82,8 @@ int main() {
 
     vector<int> vec = {74, 24, 79, 47, 86, 59, 38, 70, 77, 22, 95, 44, 41, 15, 34, 10, 16, 52, 21, 65, 88, 11, 94, 43, 55, 46, 8, 7, 97, 25, 28, 93, 81, 32, 61, 31, 84, 20, 45, 76, 48, 23, 92, 4, 36, 87, 89, 69, 51, 12, 63, 78, 37, 62, 72, 56, 82, 27, 17, 9, 91, 80, 99, 60, 18, 85, 39, 68, 35, 40, 33, 57, 90, 30, 19, 26, 5, 98, 1, 6, 50, 73, 2, 29, 42, 58, 49, 71, 3, 75, 83, 64, 67, 96, 53, 54, 13, 66, 14, 100};
 
+    vec.push_back(3);
+
     for (int i = 1; i<=100; i++) {
         if (!Bst2.add(vec[i])) {
             cout << "Could not add " << i << endl;
@@ -97,6 +99,10 @@ int main() {
     outFile.open("../data/example-output.csv");
     for (int i = 1; i<=100; i++) {
         Bst2.find(i, depth);
+        outFile << depth << " ";
+        Avlt2.find(i, depth);
+        outFile << depth << " ";
+        St2.find(i, depth);
         outFile << depth << endl;
     }
     outFile.close();
