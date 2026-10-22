@@ -14,9 +14,10 @@ Answer the following questions directly in this file:
   * Alignment- It is the behavior of the monster, a lawful good alignment means that the creature will follow a set of laws to do good deeds while a chaotic evil will do whatever evil acts they wish.
 
 * How do the depths of the random-ordered integers compare to the depths of the ordered integers for each tree? Why?
-  * 
+  * In a binary tree an unsorted list of integers is going to have depths unrelated to the size of the integer while in an ordered list the higher the depth the higher the integer will be at that depth.
+  * In an AVL tree  
 * How do the depths of each custom-data-type tree compare to each other?
-  * 
+  * The custom data types have depths based on their name as they get added in alphabetical order. 
 * Why do the depths of the second custom-data-type Splay Tree make sense?
   * 
 * Graph the Binary Search Tree, AVL Tree, and Splay Tree depths for the custom data type trees. Do not use C++ to graph, you can use whatever spreadsheet application or graphical programming language you prefer. You can use whatever graph is most readable to you (e.g. scatter plot, histogram, etc.).
