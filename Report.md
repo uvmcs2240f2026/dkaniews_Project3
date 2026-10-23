@@ -24,7 +24,9 @@ Answer the following questions directly in this file:
 * Why do the depths of the second custom-data-type Splay Tree make sense?
   * They make sense as the balancing of play trees means that the objects least referenced would be at the lowest point in the splay tree as they are no longer needed to reference to find the place of the next object addded to the tree.
 * Graph the Binary Search Tree, AVL Tree, and Splay Tree depths for the custom data type trees. Do not use C++ to graph, you can use whatever spreadsheet application or graphical programming language you prefer. You can use whatever graph is most readable to you (e.g. scatter plot, histogram, etc.).
-  * ![Graphs](graphs/graphs.pdf)
+  * ![Graphs](graphs/binary-depth.png)
+  * ![Graphs](graphs/avl-depth.png)
+  * ![Graphs](graphs/splay-depth.png)
 * Compare and contrast the graphs and explain the differences based on what you know about the structure and behavior of the trees. Justify the time complexity of searching the trees based on the results.
   * In the Binary tree graph is a diagonal line that shows the time complexity of the worst case as a binary tree with a sorted list works in its worst state. This is Linear time complexity as the ordered addition to the tree means that each point has to be checked before adding the next object.
   * In the ALV tree graph it shows the formation of the tree and how it is balanced. The balancing of the AVL tree means that the time complexity is logarithmic because when adding a new leaf it has to check for balance and readjust the tree as required.
