@@ -14,12 +14,15 @@ Answer the following questions directly in this file:
   * Alignment- It is the behavior of the monster, a lawful good alignment means that the creature will follow a set of laws to do good deeds while a chaotic evil will do whatever evil acts they wish.
 
 * How do the depths of the random-ordered integers compare to the depths of the ordered integers for each tree? Why?
-  * In a binary tree an unsorted list of integers is going to have depths unrelated to the size of the integer while in an ordered list the higher the depth the higher the integer will be at that depth.
-  * In an AVL tree  
+  * In a binary tree an unsorted list of integers is going to have the root the first randomized integer in the list and any integer smaller is going to the left of that root with the smaller the integer the deeper the depth while on the right side the depth gets larger, the larger the integer is. In a sorted integer list every integer will be to the right of the root as the first integer added is the smallest integer, so each added integer will have a depth one more than the previous integer as each integer added will always go on the right due to the ordered nature of the list.
+  * In an AVL tree an unsorted list of integers is going to have depths similar to an unsorted list added to a binary tree however due to AVL balancing the tree the smallest integer will have a depth of at least 1 away from the highest integer. With a sorted integer list due to the AVL balancing the tree it will result in the same tree produced with an unsorted list
+  * In a Splay tree an unsorted list is going to be sorted similarly to the AVL tree with the sorting and balancing aspect 
 * How do the depths of each custom-data-type tree compare to each other?
-  * The custom data types have depths based on their name as they get added in alphabetical order. 
+  * The custom data type in the Binary Tree has depths in order as to when they were added as the list of items is in alphabetical order and the items are compared by their names.
+  * The custom data types in the AVL Tree have depths based on their name as they get added in alphabetical order. the farther they are down in the alphabet the deeper they are in the tree.
+  * The custom data types in the Splay Tree have depths where the objects added first are lower down on the tree as they are not referenced as often when sorting the list due to the list being already sorted alphabetically.
 * Why do the depths of the second custom-data-type Splay Tree make sense?
-  * 
+  * They make sense as the balancing of play trees means that the objects least referenced would be at the lowest point in the splay tree as they are no longer needed to reference to find the place of the next object addded to the tree.
 * Graph the Binary Search Tree, AVL Tree, and Splay Tree depths for the custom data type trees. Do not use C++ to graph, you can use whatever spreadsheet application or graphical programming language you prefer. You can use whatever graph is most readable to you (e.g. scatter plot, histogram, etc.).
   * Your graphs should have clear labels for both x and y axes.
   * Save your graph files in the graphs folder.

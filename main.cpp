@@ -111,7 +111,7 @@ int main() {
     vector<DndMon> Mons;
     getFileData("../Dnd_Monster_Data.csv", Mons);
 
-    for (int i = 1; i<1000; i++) {
+    for (int i = 0; i<1000; i++) {
         if (!BstDM.add(Mons[i])) {
             cout << "Could not add " << i << endl;
         }
@@ -123,15 +123,40 @@ int main() {
         }
     }
 
+    outFile.open("../data/Trees_Data.csv");
+    for (int i=0; i<1000; i++) {
+        //outFile<< Mons[i] << " ";
+        BstDM.find(Mons[i], depth);
+        outFile<< depth<< " ";
+        outFile<< endl;
+    }
+    for (int i=0; i<1000; i++) {
+        //outFile<< Mons[i] << " ";
+        AvltDM.find(Mons[i], depth);
+        outFile<< depth<< " ";
+        outFile<< endl;
+    }
+    for (int i=0; i<1000; i++) {
+        //outFile<< Mons[i] << " ";
+        StDM.find(Mons[i], depth);
+        outFile<< depth<< " ";
+        outFile<< endl;
+    }
+    outFile.close();
+
+    cout << "Size of Binary Tree: " << BstDM.getSize() << endl;
+    cout << "Size of AVL Tree: " << AvltDM.getSize() << endl;
+    cout << "Size of Splay Tree: " << StDM.getSize() << endl;
+
     SplayTree<DndMon> Monsters;
-    for (int i = 1; i<=1000; i++) {
+    for (int i = 0; i<1000; i++) {
         if (!Monsters.add(Mons[i])) {
             cout << "Could not add " << i << endl;
         }
     }
 
     outFile.open("../data/Monsters_Data.csv");
-    for (int i=1; i<=1000; i++) {
+    for (int i=0; i<1000; i++) {
         outFile<< Mons[i] << " ";
         for (int j=1; j<5; j++) {
             Monsters.find(Mons[i], depth);
@@ -139,6 +164,8 @@ int main() {
         }
         outFile<< endl;
     }
+
+    outFile.close();
 
 
 
