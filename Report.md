@@ -24,11 +24,10 @@ Answer the following questions directly in this file:
 * Why do the depths of the second custom-data-type Splay Tree make sense?
   * They make sense as the balancing of play trees means that the objects least referenced would be at the lowest point in the splay tree as they are no longer needed to reference to find the place of the next object addded to the tree.
 * Graph the Binary Search Tree, AVL Tree, and Splay Tree depths for the custom data type trees. Do not use C++ to graph, you can use whatever spreadsheet application or graphical programming language you prefer. You can use whatever graph is most readable to you (e.g. scatter plot, histogram, etc.).
-  * Your graphs should have clear labels for both x and y axes.
-  * Save your graph files in the graphs folder.
-  * You do not need to graph the depths of the integer type trees or the Splay Tree that finds each object 5 times in a row, but you can if you feel it helps you analyze the data.
-  * An example graph spreadsheet and an example graph image have been included in the starter code.
-  * Here is how you include an image in your Report.md file: ![example graph](graphs/example-graph.png)
+  * ![Graphs](graphs/graphs.pdf)
 * Compare and contrast the graphs and explain the differences based on what you know about the structure and behavior of the trees. Justify the time complexity of searching the trees based on the results.
-
+  * In the Binary tree graph is a diagonal line that shows the time complexity of the worst case as a binary tree with a sorted list works in its worst state. This is Linear time complexity as the ordered addition to the tree means that each point has to be checked before adding the next object.
+  * In the ALV tree graph it shows the formation of the tree and how it is balanced. The balancing of the AVL tree means that the time complexity is logarithmic because when adding a new leaf it has to check for balance and readjust the tree as required.
+  * In the Splay tree graph we see how the graph follows a logarithmic form. The time complexity is logarithmic for similar reasons as to the AVL tree from the balancing as needed. 
+  * The depth is able to reflect the time complexity of the graphs as time complexity is affected by the objects getting added to trees and how each tree add objects and if they balance their nodes.
 **Note: Any code that was not authored by yourself or the instructor must be cited in your report. This includes the use of concepts not taught in lecture.**
